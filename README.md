@@ -1,3 +1,5 @@
+Task-2_problem-statement-1_excel
+
 Part 1
 As a data analysis intern, you are provided with a general store transaction dataset. You are supposed to do the following operations.
 1)Draw a Pivot table to get the different types of outlets and their counts
